@@ -6,8 +6,7 @@
   "scripts": {
     "dev": "next dev -p 80",
     "build": "next build",
-    "start": "next start -p 80",
-    "lint": "next lint"
+    "start": "next start -p 80"
   },
   "repository": {
     "type": "git",
@@ -21,5 +20,15 @@
   "bugs": {
     "url": "https://github.com/SharkFinPro/portfolio/issues"
   },
-  "homepage": "https://github.com/SharkFinPro/portfolio#readme"
+  "homepage": "https://github.com/SharkFinPro/portfolio#readme",
+  "dependencies": {
+    "next": "^13.4.5",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@types/node": "20.3.0",
+    "@types/react": "18.2.12",
+    "typescript": "5.1.3"
+  }
 }
