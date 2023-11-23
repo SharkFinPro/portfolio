@@ -1,0 +1,17 @@
+.wrapper {}
+
+.container {
+  max-width: 1200px;
+  margin-inline: auto;
+}
+
+.header {
+  background: deepskyblue;
+  display: grid;
+  place-content: center;
+  min-height: 200px;
+}
+
+.header h1 {
+  font-size: 4rem;
+}
