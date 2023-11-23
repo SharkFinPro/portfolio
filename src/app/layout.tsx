@@ -1,6 +1,6 @@
 import React from "react";
 import { Metadata } from "next";
-import "@/stylesheets/global.css";
+import "./global.css";
 
 export const metadata: Metadata = {
   title: {
